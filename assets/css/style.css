@@ -1,0 +1,9 @@
+body {
+  background-image: url(../images/old_train.jpg);
+}
+
+.jumbotron {
+  font-family: 'Harmattan' , sans-serif;
+  background-image: url(../images/old_train.jpg);
+  color:#ffffff;
+}
